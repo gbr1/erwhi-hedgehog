@@ -1,6 +1,4 @@
-# erwhi-hedgehog
-
-### ERWHI Hedgehog (ERWHI3)
+# ERWHI Hedgehog (ERWHI3)
 
 List of repositories:
 - *erwhi-hedgehog* , index of repositories for Erwhi Hedgehog and documentation.
@@ -12,4 +10,4 @@ List of repositories:
 - *encoder-kit* , encoder used in Erwhi Hedgehog
 
 
-# *ERWHI is an open source project by Giovanni Bruno.
+### *ERWHI is an open source project by Giovanni Bruno.*
