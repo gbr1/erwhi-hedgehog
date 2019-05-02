@@ -11,6 +11,7 @@ List of repositories:
 - [sengi-firmware](https://github.com/gbr1/sengi-firmware), platform.io project using Arduino language for Sengi carrier board
 - [encoder-kit](https://github.com/gbr1/encoder-kit), encoder used in Erwhi Hedgehog
 <br>
+
 Other packages:
 - [upboard_ros](https://github.com/gbr1/upboard_ros), package to connect ROS and UP features like leds and GPIOs
 - [ros_openvino](https://github.com/gbr1/ros_openvino), simple package to use Ai Core X.
