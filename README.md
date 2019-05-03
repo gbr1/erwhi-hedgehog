@@ -5,6 +5,7 @@
 List of repositories:
 - [erwhi-hedgehog](https://github.com/gbr1/erwhi-hedgehog) , index of repositories for Erwhi Hedgehog and documentation
 - [erwhi-hedgehog-ros](https://github.com/gbr1/erwhi-hedgehog-ros) , ROS package used by Erwhi
+- [erwhi-hedgehog-apps](https://github.com/gbr1/erwhi-hedgehog-apps), ROS nodes useful for Erwhi case of studies
 - [erwhi-hedgehog-mechanics](https://github.com/gbr1/erwhi-hedgehog-mechanics) , repository for mechanics
 - [sengi](https://github.com/gbr1/sengi), schematic and pcb of the Sengi carrier board
 - [sengi_ros](https://github.com/gbr1/sengi_ros), ROS node used to connect ROS control to Sengi carrier board
